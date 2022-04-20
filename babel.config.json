@@ -1,0 +1,5 @@
+// Config de Babel
+
+{
+    "presets": ["@babel/preset-env"]
+}
